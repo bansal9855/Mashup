@@ -24,12 +24,9 @@ This project automates downloading videos of a specified singer from YouTube, me
    cd Mashup
    ```
 
-2. **Install the dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Set up environment variables**:
+
+2. **Set up environment variables**:
    - Create a `.env` file in the root directory:
      ```
      password=your_email_password
